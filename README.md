@@ -1,6 +1,9 @@
-# Nuxt 3 Minimal Starter
+# jacobwmorgan.xyz 
+This is the repo for my nuxt3 and tailwind based website.
+This site is deployed on [netlify](https://www.netlify.com)
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+🗣 - [jacobwmorgan.xyz](https://jacobwmorgan.xyz/)
+
 
 ## Setup
 
@@ -16,7 +19,6 @@ npm install
 # pnpm
 pnpm install --shamefully-hoist
 ```
-
 ## Development Server
 
 Start the development server on http://localhost:3000
@@ -39,4 +41,4 @@ Locally preview production build:
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
