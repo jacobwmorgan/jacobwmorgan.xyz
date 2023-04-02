@@ -1,0 +1,58 @@
+baseURL = 'http://example.org/'
+languageCode = 'en'
+DefaultContentLanguage = 'en'
+title = 'jacobwmorgan'
+theme = 'risotto'
+enableInLineShortcodes = true
+paginate = 3
+copyright = "© 2023 [Jacob Morgan](https://jacobwmorgan.xyz/)"
+
+
+ignoreErrors = ["error-remote-getjson"]
+
+
+sectionPagesMenu = "main"
+
+[params]  
+    favicon = "/favicon.svg"
+    taglist = true
+    indexarticles = 50
+
+
+[params.theme]
+pallete = "base16-dark"
+
+
+[params.about]
+title = "Jacob Morgan"
+description = "I didn't expect the spanish inquisition!"
+logo = "images/pfp.png"
+
+[[params.socialLinks]]
+    icon = "fa-brands fa-github"
+    title = "Github"
+    url = "https://github.com/jacobwmorgan"
+
+[[params.socialLinks]]
+    icon = "fa-solid fa-envelope"
+    title = "Email"
+    url = "mailto:morganjdev@gmail.com"
+
+
+[[params.socialLinks]]
+    icon = "fa-brands fa-linkedin"
+    title = "LinkedIn"
+    url = "https://www.linkedin.com/in/jacob-morgan-982471169/"
+
+[menu]
+    [[menu.main]]
+      identifier = "about"
+      name = "about"
+      url = "/about"
+      weight = 10
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
