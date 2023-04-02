@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jacobwmorgan</title>
+    <link>http://example.org/</link>
+    <description>Recent content on jacobwmorgan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 [Jacob Morgan](https://jacobwmorgan.xyz/)</copyright>
+    <lastBuildDate>Sun, 02 Apr 2023 14:48:26 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software I Use</title>
+      <link>http://example.org/posts/software-i-use/</link>
+      <pubDate>Sun, 02 Apr 2023 14:48:26 +0100</pubDate>
+      
+      <guid>http://example.org/posts/software-i-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Wed, 22 Mar 2023 18:43:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Im Jacob, a 20 year old student currently finishing my BSc in Computer Science from the University of Lincoln.
+Computer Science I am currently writing my disseration in machine learning, specifically looking into models to classify mushrooms.
+In my spare time I like to learn new languages and create small personal projects (projects are listed on the home page).
+The programming languages that I am most confident in are:
+Python C# C++ MatLab The markdown languages that I use are:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -26,7 +26,7 @@ pallete = "base16-dark"
 [params.about]
 title = "Jacob Morgan"
 description = "I didn't expect the spanish inquisition!"
-logo = "images/pfp.png"
+logo = "/favicon.svg"
 
 [[params.socialLinks]]
     icon = "fa-brands fa-github"
