@@ -1,11 +1,11 @@
-baseURL = "https://main--jacobwmorgan.netlify.app/"
+baseURL = "https://jacobwmorgan.xyz/"
 languageCode = 'en'
 DefaultContentLanguage = 'en'
 title = 'jacobwmorgan'
 theme = 'risotto'
 enableInLineShortcodes = true
 paginate = 3
-copyright = "© 2023 [Jacob Morgan](https://jacobwmorgan.xyz/)"
+copyright = "© 2023 [Jacob Morgan](https://jacobwmorgan.xyz/)  "
 
 
 ignoreErrors = ["error-remote-getjson"]
@@ -25,7 +25,7 @@ pallete = "base16-dark"
 
 [params.about]
 title = "Jacob Morgan"
-description = "I didn't expect the spanish inquisition!"
+description = "I didn't expect the spanish inquisition! "
 logo = "/favicon.svg"
 
 [[params.socialLinks]]
