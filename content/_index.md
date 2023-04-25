@@ -5,6 +5,9 @@
 Im Jacob a computer science student from England.
 For more information check out the [about](about) page.
 
+This page will get updated more throughout the year.
+At the moment im currently completing my degree and writing my dissertation (post coming soon).
+
 ## Featured Posts
 
 {{< postlist >}}
