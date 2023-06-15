@@ -1,22 +1,8 @@
-
-
-# Introduction
-
-Im Jacob a computer science student from England.
-For more information check out the [about](about) page.
-
-This page will get updated more throughout the year.
-At the moment im currently completing my degree and writing my dissertation (post coming soon).
-
-## Featured Posts
-
-{{< postlist >}}
-
-## Projects
-
-{{< projectlist >}}
-
 ---
-This website is hosted using Netlify.
+title: "jacobwmorgan"
+description: "Main paige for jacobwmorgan.xyz"
+---
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a3d503fe-d819-4219-9374-fbd1bb1b4738/deploy-status)](https://app.netlify.com/sites/jacobwmorgan/deploys)
+Computer Science graduate from the Univeristy of Lincoln 
+
+[Music Man](https://open.spotify.com/playlist/49hT6xCBA6PLOzgcaM8ZMD?si=af8e296341ae4140)
