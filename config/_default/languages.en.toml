@@ -16,7 +16,7 @@ title = "Jacob W Morgan"
 [author]
   name = "Jacob W Morgan"
   image = "img/pfp.png"
-  headline = "Sunrise, Parabellum "
+  #headline = ""
   bio = "Computer Science & Music"
   links = [
     { email = "mailto:morganjdev@gmail.com" },

@@ -5,9 +5,9 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "congo"
+colorScheme = "fire"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = false
 enableCodeCopy = false
@@ -31,12 +31,12 @@ disableImageOptimization = true
   showMenu = true
   showCopyright = false
   showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "background.jpg" # used in: hero, and card
+  homepageImage = "img/background.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
