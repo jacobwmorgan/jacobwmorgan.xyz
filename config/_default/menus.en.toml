@@ -22,6 +22,7 @@
     name = "Resume"
     pageRef = "resume"
     url = "/files/cv.pdf"
+    target = "_blank"
     weight = 20
 
 
