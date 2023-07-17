@@ -11,7 +11,7 @@ Im Jacob, a 21 year old Computer Science graduate from the [University of Lincol
 
 ## Computer Science 
 
-A month ago I finished my disseration project. The disseration focused on machine learning, specially proving which out of three models are best for classifying mushrooms 🍄 and can be found [here](https://github.com/jacobwmorgan/champignons).
+I graduated from university with a first in Computer science, finalising my degree with my disseration. The disseration focused on machine learning, specially proving which out of three models are best for classifying mushrooms 🍄 and can be found [here](https://github.com/jacobwmorgan/champignons).
 
 The langauges I am most comfortable with are -
 -  Python
