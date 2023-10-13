@@ -1,5 +1,5 @@
 ---
 title: "jacobwmorgan"
-description: "Sunrise, Parabellum"
+description: ""
 ---
-**Computer Science graduate from the University of Lincoln**
+**Software Developer & Computer Science Graduate**
